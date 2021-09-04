@@ -1,0 +1,1 @@
+This is a Chip-8 Emulator made with Python and PySDL2 to draw graphics. Has 7/36 instructions down
